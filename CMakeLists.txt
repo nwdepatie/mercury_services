@@ -57,6 +57,7 @@ add_service_files(
    FILES
    frontlight.srv
    worklight.srv
+   brakelight.srv
    grip.srv
    release.srv
    movegantry.srv
