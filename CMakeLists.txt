@@ -55,6 +55,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate services in the 'srv' folder
 add_service_files(
    FILES
+   rtdgantry.srv
    frontlight.srv
    worklight.srv
    brakelight.srv
